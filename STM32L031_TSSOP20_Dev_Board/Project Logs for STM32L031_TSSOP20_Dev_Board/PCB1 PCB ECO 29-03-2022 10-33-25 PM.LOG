@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetC7_2 Pin=Y1-1
+Removed Pin From Net: NetName=NetC6_2 Pin=Y1-2
+Change Component Footprint: Designator=Y1 Old Footprint=FC135327680KAAG5 New Footprint=Q13FC1350000200
+Change Component Comment : Designator=Y1 Old Comment=FC-135_32.7680KA-AG5 New Comment=Q13FC1350000200
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "FC135327680KAAG5"; UniqueID = "\BQLBIFQC" ("\BQLBIFQC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/Seiko-Epson-Q13FC1350000200_C48615.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "SEIKO EPSON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "Q13FC1350000200"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "32.768kHz/7pF/70kOhms"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 5PIN
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Added Pin To Net: NetName=NetC6_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC7_2 Pin=Y1-2
+Add Class Member: Failed to add class member : Component J1 CN_5PIN
+Added Room: Name=main
