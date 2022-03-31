@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\Users\javi_\GitHub\STM32L031_TSSOP20_Dev_Board\STM32L031_TSSOP20_Dev_Board\PCB1.PcbDoc
-Date     : 30/03/2022
-Time     : 7:20:01 PM
+Date     : 31/03/2022
+Time     : 9:36:21 AM
 
 Processing Rule : Clearance Constraint (Gap=8mil) (OnLayer('Top Layer')),(All)
 Rule Violations :0
