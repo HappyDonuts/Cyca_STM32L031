@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=S1 Old Footprint=SKRPABE010 New Footprint=PTS815SJM250SMTRLFS
+Change Component Comment : Designator=S1 Old Comment=SKRPABE010 New Comment=PTS815_SJM_250_SMTR_LFS
+Change component parameters: Designator = "S1" ("S1"); Footprint = "SKRPABE010"; UniqueID = "\DRRYOAME" ("\DRRYOAME")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "PTS815 SJM 250 SMTR LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pts815-sjm-250-smtr-lfs/ck"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/PTS815 SJM 250 SMTR LFS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PTS815 SJM 250 SMTR LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "611-PTS815SJM250SMTR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CK/PTS815-SJM-250-SMTR-LFS?qs=ahcBuItHZ3xKWmfV%2F2E6bA%3D%3D"; VariantName = "[No Variations]"
+Added Room: Name=main
