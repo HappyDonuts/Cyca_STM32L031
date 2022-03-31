@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=CN4-
+Removed Pin From Net: NetName=GND Pin=CN4-
+Removed Pin From Net: NetName=GND Pin=CN4-S5
+Removed Pin From Net: NetName=GND Pin=CN4-S6
+Change Component Footprint: Designator=CN4 Old Footprint=USB307530A New Footprint=USB_B_AE
+Change Component Comment : Designator=CN4 Old Comment=U254-051T-4BH83-S1S New Comment=USB_B_AE
+Added Room: Name=main
