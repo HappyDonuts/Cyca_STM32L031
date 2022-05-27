@@ -1,0 +1,3 @@
+Remove Pin=J1-2 From Net=SWDIO
+Remove Pin=J1-4 From Net=SWCLK
+Remove Pin=J1-5 From Net=NRST

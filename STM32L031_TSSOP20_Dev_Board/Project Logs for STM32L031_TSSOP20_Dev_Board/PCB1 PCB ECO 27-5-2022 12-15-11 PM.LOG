@@ -1,0 +1,12 @@
+Change Component Comment : Designator=IC2 Old Comment=MIC5365-3.3YC5-TR New Comment=MIC5366-3.3YC5-TR
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "SOT65P210X110-5N"; UniqueID = "\VSZTGILW" ("\VSZTGILW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "MIC5366-3.3YC5-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mic5365-3.3yc5-tr/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/ds/2/268/mic5365-779177.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MIC5366-3.3YC5-TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "998-MIC5366-3.3YC5TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5365-33YC5-TR?qs=U6T8BxXiZAXvJj%252BPZ%252B301w%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3V/150mA"; VariantName = "[No Variations]"
+Added Room: Name=main
